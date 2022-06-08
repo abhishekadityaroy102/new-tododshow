@@ -1,0 +1,18 @@
+.main{
+    border:1px solid black;
+    width: 400px;
+    height: 600px;
+    
+    margin:auto;
+}
+.inputbox input{
+width: 80%;
+height: 45px;
+}
+.inputbox button{
+    width:15%;
+    height: 50px;
+}
+.inputbox{
+    margin-top:20px
+}
